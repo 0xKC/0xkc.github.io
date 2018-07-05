@@ -1,4 +1,4 @@
-# Social Engineering Experiment : A Story
+
 
 
 This is not a technical post. Just my experience with social engineering.But it was more of physical security assessment than a social engineering engagement.
