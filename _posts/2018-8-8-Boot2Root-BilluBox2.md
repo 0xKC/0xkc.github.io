@@ -1,4 +1,4 @@
 
 ## Nmap Scan
 
-![nmap scan](/images/carbon.png = 100x100)
+![nmap scan](/images/carbon.png)
