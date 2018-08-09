@@ -13,6 +13,10 @@ You can get the exploit code [here](https://github.com/dreadlocked/Drupalgeddon2
 
 <img src="../images/carbon (2).png">
 
+Interactive shell
+
+<img src="../images/carbon (3).png" width="300">
+
 ## Priv Esc 
 ### Method 1
 
