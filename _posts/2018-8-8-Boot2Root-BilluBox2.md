@@ -5,7 +5,7 @@
 
 ## Drupalgeddon 
 
-<img src="../images/carbon(1).png" width="300">
+<img src="../images/carbon (1).png" width="300">
 
 ## Reverse Shell
 
