@@ -11,7 +11,7 @@ You can get the exploit code [here](https://github.com/dreadlocked/Drupalgeddon2
 
 ## Reverse Shell
 
-<img src="../images/carbon (2).png" width="400">
+<img src="../images/carbon (2).png">
 
 ## Priv Esc 
 ### Method 1
