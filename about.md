@@ -11,9 +11,6 @@ Friends call me "KC".
 **Updating**
 
 
-### Motto 
-
-**Defense through Offense**
 
 
 ### Contact me
