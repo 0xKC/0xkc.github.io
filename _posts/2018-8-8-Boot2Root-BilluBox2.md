@@ -5,6 +5,8 @@
 
 ## Drupalgeddon 
 
+You can get the exploit code [here](https://github.com/dreadlocked/Drupalgeddon2/blob/master/drupalgeddon2.rb)
+
 <img src="../images/carbon (1).png" width="300">
 
 ## Reverse Shell
