@@ -1,9 +1,13 @@
 ---
 layout: page
-title: About
+title: $whoami
 permalink: /about/
 ---
-This website/blog still is being updated. You can contact me via LinkedIn or E-mail.
+
+
+
+
+
 
 ### Contact me
 
